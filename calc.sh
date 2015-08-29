@@ -1,5 +1,2 @@
-#!/bin/bash
-
-clear
-
-expr 5 + 5
+echo -n "$1 = "
+echo "scale=2;$1" | bc
