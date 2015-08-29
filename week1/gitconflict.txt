@@ -1,1 +1,3 @@
 TheStruggle.jpeg
+
+And here's the conflict from the real folder. 
