@@ -17,5 +17,7 @@ echo "scale=2;$1" | bc
 #but I had a lot of fun with this little task.
 #Especially considering I haven't even touched
 #a terminal for about two years.
+#I probably could have made it all in one line,
+#but that will be for another day. 
 
 # ~viljardh
