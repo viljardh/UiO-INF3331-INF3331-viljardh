@@ -1,3 +1,7 @@
 TheStruggle.jpeg
 
 And here's the conflict from the real folder. 
+
+...what's the conflict? I want both changes? I don't!
+I'm "resolving" the "conflict" by adding the changes I want
+from the correct folder to commit, how about that?
